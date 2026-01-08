@@ -84,7 +84,7 @@ malloc 64
 malloc 128
 free 1
 malloc 32
-cache init L1 128 32 1
+cache_init L1 128 32 1
 cache_access 0x400
 cache_access 0x410
 cache_access 0x410
